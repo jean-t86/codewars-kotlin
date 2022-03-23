@@ -4,5 +4,4 @@ rootProject.name = 'codewars'
 
 include(':maximum-subarray-sum')
 include(':multiple-of-3-or-5')
-
-
+include(':playing-with-digits')
